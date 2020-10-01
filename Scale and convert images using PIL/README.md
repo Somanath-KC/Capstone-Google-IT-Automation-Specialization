@@ -29,3 +29,12 @@ Downloaing the Data
    unzip images.zip
 ```
 
+Install Dependencies
+```
+pip3 install pillow
+```
+
+Create Script File and Grant Executable Permissions
+```
+touch process_images.py && sudo chmod +x process_images.py
+```
