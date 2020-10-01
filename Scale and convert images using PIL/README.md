@@ -38,3 +38,8 @@ Create Script File and Grant Executable Permissions
 ```
 touch process_images.py && sudo chmod +x process_images.py
 ```
+
+Running the Script
+```
+    ./process_images.py
+```
